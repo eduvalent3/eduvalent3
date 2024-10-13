@@ -11,7 +11,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduvalent3&bg_color=000000&color=06770B&line=07e9a5&point=06770B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-##Tecnologias que eu uso no dia a dia:
+## Tecnologias que eu uso no dia a dia:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
