@@ -25,7 +25,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, atualmente cursando ciência da computação, busco desenvolver minhas habilidades em desenvolvimento de sistemas.
+Cursando ciência da computação, busco desenvolver minhas habilidades em desenvolvimento de sistemas e aprender novas tecnologias.
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
